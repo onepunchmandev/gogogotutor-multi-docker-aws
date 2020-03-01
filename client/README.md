@@ -2488,3 +2488,8 @@ https://github.com/npm/npm/issues/16661
 31. added websocket to nginx
 32. docker-compose up -- build = rebuild 
 33. docker-compose down  && docker-compose up --build
+
+### push to docker hub
+
+1. docker login
+2. 
